@@ -1,0 +1,10 @@
+{
+  "Name": "John",
+  "Age": 30,
+  "IsStudent": true,
+  "Scores": [
+    90,
+    85,
+    95
+  ]
+}
